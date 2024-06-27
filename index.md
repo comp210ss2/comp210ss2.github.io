@@ -26,4 +26,4 @@ seo:
 
 **Office hours**: MoTuWeThFr 2:45 PM - 3:45 PM, or by appointment
 
-**Acknowledgements**: Huge thanks to [Kaki Ryan](https://www.cs.unc.edu/~kakiryan/), [Prof. David Stotts](https://www.cs.unc.edu/~stotts/), and [Prof. Ketan Mayer-Patel](https://cs.unc.edu/person/ketan-mayer-patel/) for much of the material in preparing this course.
+**Acknowledgements**: Huge thanks to [Kaki Ryan](https://www.cs.unc.edu/~kakiryan/), [Prof. David Stotts](https://www.cs.unc.edu/~stotts/), and [Prof. Ketan Mayer-Patel](https://cs.unc.edu/person/ketan-mayer-patel/) for much of the material used in this course.
