@@ -1,35 +1,29 @@
 ---
 title: Home
 layout: home
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Course
+  name: COMP 210
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# COMP 210
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+[The University of North Carolina at Chapel Hill](https://unc.edu), Summer Session 2, 2024
 
-More specifically, the created site:
+**Instructor**: [Jesse Wei](https://jessewei.dev)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**Time**: MoTuWeThFr 1:15 PM - 2:45 PM
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+**Dates**: FDOC: 6/24/24; LDOC: 7/25/24
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+**Location**: Sitterson Hall FB007
 
-To get started with creating a site, simply:
+**Course description**: This course will teach you how to organize the data used in computer programs so that manipulation of that data can be done efficiently on large problems and large data instances. Rather than learning to use the data structures found in the libraries of programming languages, you will be learning how those libraries are constructed, and why the items that are included in them are there (and why some are excluded).
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+**Instructor contact**: The best way to reach me is by making a public or private post on [Piazza](https://piazza.com/unc/summer2024/comp210/home). Signup instructions are in the [syllabus](syllabus.md#resources).
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+**Office hours**: MoTuWeThFr 2:45 PM - 3:45 PM, or by appointment
 
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+**Acknowledgements**: Huge thanks to [Kaki Ryan](https://www.cs.unc.edu/~kakiryan/), [Prof. David Stotts](https://www.cs.unc.edu/~stotts/), and [Prof. Ketan Mayer-Patel](https://cs.unc.edu/person/ketan-mayer-patel/) for much of the material in preparing this course.

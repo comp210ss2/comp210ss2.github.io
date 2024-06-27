@@ -1,8 +1,20 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+title: COMP 210
+tagline: COMP 210 (SS2 2024) course website
+description: COMP 210 (SS2 2024) course website
+author: Jesse Wei
+url: 'https://comp210ss2.github.io'
+favicon_ico: "/assets/images/logo.ico"
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Canvas:
+    - 'https://uncch.instructure.com/courses/60836'
+  Piazza:
+    - 'https://piazza.com/unc/summer2024/comp210'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/797701'
+  Feedback:
+    - 'https://forms.gle/do2UzGX6jh7P7N2E6'
