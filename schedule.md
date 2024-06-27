@@ -12,7 +12,7 @@ nav_order: 1
 |1|6/24|0|[Introduction and Java intro pt. 1](https://docs.google.com/presentation/d/1ErSXfLe15QjF0KuzXIfF-jmMFw7YgGrb572rxc7wopg)||[EX00: Hello world](https://classroom.github.com/a/Rm_7-E1G)|
 ||6/25|1|[Java intro pt. 2](https://docs.google.com/presentation/d/1cFk6W1PiVVUoxxqmnIXu4DVA7-UKu6bm8jlqE350GfE)|||
 ||6/26|2|[Recursion review](https://docs.google.com/presentation/d/1HZTQF2VoPJTdjvogyeCpu8nFeUujod13dMyDRtlq9hw/edit?usp=sharing)|EX00|[EX01: Java warmup](https://classroom.github.com/a/nh9ITEFK)|
-||6/27|3|OOP review|<span style="color:red">QZ00</span> (first 20 min of class)||
+||6/27|3|[OOP review](https://docs.google.com/presentation/d/1GcomCL4c3DQH6Ny3S6IqpE_05h-bxzM9wN1fRDHi920/edit?usp=sharing)|<span style="color:red">QZ00</span> (first 20 min of class)||
 ||6/28|4|Abstract data types|EX01|EX02: Recursion|
 |2|7/1|5|Big O pt. 1|EX02|EX03: ADT|
 ||7/2|6|Big O pt. 2|||
