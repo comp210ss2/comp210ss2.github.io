@@ -34,6 +34,6 @@ val l2 = rem(l1, 0);  (* results in ins(New, 3, 0) *)
 
 So we do not specify a rule for `ins` applied to `rem` because `rem` will actually remove itself. `ins` will never be applied to a `rem`.
 
-Another simpler example might be `ins` applied to a `find`, e.g., `val l3 = ins(l2, 1, find(l2, 3))`. But `find` returns `int`, so this is simply `ins(l2, 1, 0)`, which we already have a rule for (the definition of `ins`).
+Another simpler example might be `ins` applied to a `find`, e.g., `val l3 = ins(l2, 1, find(l2, 3))`. But `find` returns `int`, so this is simply `ins(l2, 1, 0)`, which we already have a rule for (the definition of `LIST`/`ins`).
 
 In sum, if we follow the procedure on the slides correctly, we won't end up in a situation where we have to specify a rule for when a canonical is applied to a non-canonical. This should be automatically handled by our other rules.
