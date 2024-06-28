@@ -14,7 +14,7 @@ For example, for a list, why do we not explicitly specify a rule for `ins` appli
 
 `rem` is non-canonical, so any sequence of statement using `rem` can be rewritten to one without `rem` (i.e., just the canonicals `ins` and `new`). In fact, this is what the [code for rem](https://github.com/jesse-wei/lecture_code/blob/main/src/main/java/comp210/L04/ListSML.sml#L23) does. It recurses through a sequence of `ins` and removes one `ins`, leaving only `ins` and `New` (i.e., the `rem` is gone).
 
-For example (and you can run the code on [SOSML](https://sosml.org/editor)),
+For example (and you can run this SML code on the online [SOSML editor](https://sosml.org/editor)),
 
 ```sml
 datatype ('e) LIST = New
