@@ -26,6 +26,7 @@ parent: Notes
     - Remember to practice big O questions on [Prof. Stotts' COMP 210 website](https://www.cs.unc.edu/~stotts/COMP410-f20/)
         - Click on [exam info](https://www.cs.unc.edu/~stotts/COMP410-f20/examinfo.html)
         - Find what is relevant in our class so far and do that. May ignore the rest for now (or study it, may come up later).
+    - Divide and conquer recursion big O not on this quiz, but recursion similar to Fibonacci or the quiz 0 `recur` question is fair game.
 4. L6 - List
    - Fair game, but less emphasis, and very likely (a) simple question(s).
 5. "Cumulative" in that I won't explicitly quiz on topics from previous lectures, but I may expect you to recall basic concepts such as `public` and `private`.
