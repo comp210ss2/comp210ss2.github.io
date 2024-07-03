@@ -60,7 +60,7 @@ fun mem(New, i) = 0
   | mem(add(MS, i), j) = if i=j then mem(MS, i)+1 else mem(MS, j);
 ```
 
-Here are some test data points and test cases for the above code. You can simply paste this code below the axiom definitions.
+To show you how to construct an MSET and call functions on it, here are some test data points and test cases. You can simply paste this code below the axiom definitions.
 
 Our testing is very simple: we create a bunch of multisets, call the functions on them, and check the outputs. For example, `card(ms1)=1;` is a true statement, so the interpreter prints `val it = true` for this line. All given test cases are correct, so you should see only `true` (no `false`).
 
