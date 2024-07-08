@@ -18,4 +18,5 @@ nav_order: 1
 ||7/2|[6](https://github.com/comp210ss2/lecture_code/tree/main/src/main/java/comp210/L06)|[Lists](https://docs.google.com/presentation/d/1AOavW2zQVPlobhD_ARcG81hfMZKJNZ3EJmmbMqNU4SA/edit?usp=sharing)|EX02||
 ||7/3|7|[LSQ pt. 2](https://docs.google.com/presentation/d/13tfrU4DsGY721nmuyQNtZ3BIE6tGB29VyLffOAUCJPc/edit?usp=sharing)|<span style="color:red">QZ01</span> (first 30 min)<br>[QZ01 topics](/notes/qz01_topics)<br>EX03|[EX04: Linked list pt. 1](https://classroom.github.com/a/vO5q8ccq)<br>EX05: Linked list pt. 2 (same GH Classroom link, just finish the methods marked "pt. 2" and submit to EX05 on Gradescope)|
 ||7/4||No class|||
-||7/5|8|Lists pt. 2|||
+||7/5||Class cancelled|||
+||7/8|8|[Sorting](https://docs.google.com/presentation/d/1SjjKP296bTmFG2wIknHnRmQIx-fCbFyWvqbjPHCyeTg/edit?usp=sharing)|||
