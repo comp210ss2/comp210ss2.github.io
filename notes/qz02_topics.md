@@ -59,5 +59,5 @@ There will be few definition questions because the quiz is open-note. There will
 9. Useful basic math facts
     - The sum of the first $$n$$ natural numbers is $$\sum_{i=1}^n i = 1 + 2 + \ldots + n = \frac{n(n+1)}{2}=\Theta(n^2)$$
     - Exponent rules
-        - $$a^ba^c=a{b+c}$$
-        - $$(a^b)^c=a^{bc}$$
+        - \\(a^ba^c=a^{b+c}\\)
+        - \\((a^b)^c=a^{bc}\\)
