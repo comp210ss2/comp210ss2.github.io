@@ -21,6 +21,6 @@ nav_order: 1
 ||7/5||Class cancelled|||
 ||7/8|[8](https://github.com/comp210ss2/lecture_code/tree/main/src/main/java/comp210/L08)|[Sorting](https://docs.google.com/presentation/d/1SjjKP296bTmFG2wIknHnRmQIx-fCbFyWvqbjPHCyeTg/edit?usp=sharing)|EX04||
 ||7/9|9|Trees|||
-||7/10|10||<span style="color:red">QZ02</span> (first 30 min)<br>EX05|EX06|
+||7/10|10||<span style="color:red">QZ02</span> ([topics](/notes/qz02_topics))<br>EX05|EX06|
 ||7/11|11||||
 ||7/12|12||||
