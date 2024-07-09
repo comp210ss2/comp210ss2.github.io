@@ -21,3 +21,8 @@ aux_links:
 
 # Removes .html from endings of links
 permalink: pretty
+
+compress_html:
+  blanklines: true
+
+latex: mathjax
