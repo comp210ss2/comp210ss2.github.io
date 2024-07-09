@@ -23,4 +23,4 @@ nav_order: 1
 ||7/9|9|Trees|||
 ||7/10|10|BST pt. 1|<span style="color:red">QZ02</span> ([topics](/notes/qz02_topics))<br>EX05|EX06|
 ||7/11|11|BST pt. 2|||
-||7/12|12|Priority queue and BHEAP|EX06||
+||7/12|12|Priority queue and BHEAP|<span style="color:red">QZ02</span> (tentative)<br>EX06||
