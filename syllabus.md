@@ -37,7 +37,6 @@ This course will teach you how to organize the data used in computer programs so
 - Office: Sitterson Hall SN315
 - Email: jesse@cs.unc.edu
 - Website: [jessewei.dev](https://jessewei.dev)
-<!-- TODO: how many -->
 - Office hours: MoTuWeThFr 2:45 PM - 3:45 PM, or by appointment
 - Zoom link: [https://unc.zoom.us/j/91817043425](https://unc.zoom.us/j/91817043425)
     - Though I don't antipicate using Zoom much, if at all
@@ -96,7 +95,6 @@ As this is a summer course, students should expect to spend 3-4 hours of work pe
 
 The final exam will be held on Tuesday, July 30, 2024, from 11:30 AM to 2:30 PM, per the [university's final exam schedule](https://summer.unc.edu/class-and-final-examination-schedules/). The location will be our normal classroom FB007.
 
-<!-- TODO: -->
 Dates for quizzes are to be determined and will be posted on the [schedule](schedule.md).
 
 Programming assignment release and due dates will be posted on the [schedule](schedule.md).
@@ -114,6 +112,10 @@ Participation will be based on your participation in class and on [Piazza](https
 
 If your final exam score exceeds a quiz score, I will replace one or two (depending on how many quizzes we have this semester) of the lowest quiz scores with your final exam score.
 
+### Quiz regrade policy
+
+Regrade requests for quizzes are available through Gradescope for at least three days following the return of the graded assessment. Regrade requests will not be available for the final exam.
+
 ## Course policies
 
 You get four "late days" in total during the semester. You may use a late day to submit a programming assignment after the deadline via Gradescope. You may only use late days in one-day increments (no partial late days), and you may use only one late day per assignment. If you submit an assignmnent late after running out of late days, you will receive no credit for the submission. Please submit your assignments on time and save your late days for extraordinary situations. Please contact me in advance if there are extenuating circumstances that may warrant an exception to this policy.
@@ -127,8 +129,8 @@ For general course concepts, I encourage you to collaborate with your classmates
 For graded course content (assignments and assessments), collaboration with other students is not allowed. Additionally,
 
 * For assignments, you may use any online resource except public source code (e.g., GitHub, GitLab) and cheating services (e.g., Chegg). You may not use AI (e.g., ChatGPT) to write code for the assignment. See [Code review test](#code-review-test).
-* Quizzes are closed-everything (notes, laptop, internet, etc.) except one 8.5" x 11" cheat sheet (front and back) prepared before the quiz.
-* Similarly, the final exam is closed-everything except up to eight 8.5" x 11" cheat sheets (front and back). Eight should be an extreme upper bound, and you should not feel like you have to use all eight.
+* For quizzes, the page [Quiz rules](/docs/quiz_rules.md) describes what is allowed.
+* The final exam will either follow the same rules as quizzes or will be closed-everything except up to eight 8.5" x 11" cheat sheets (front and back). Eight should be an extreme upper bound, and you should not feel like you have to use all eight.
 * Quizzes and the final exam are in-person and proctored.
 
 You are expected to follow the terms of the [UNC Honor Code](https://studentconduct.unc.edu/honor-system/). If you have any questions, please ask me.
