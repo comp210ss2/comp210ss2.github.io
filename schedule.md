@@ -18,9 +18,14 @@ nav_order: 1
 ||7/2|[6](https://github.com/comp210ss2/lecture_code/tree/main/src/main/java/comp210/L06)|[Lists](https://docs.google.com/presentation/d/1AOavW2zQVPlobhD_ARcG81hfMZKJNZ3EJmmbMqNU4SA/edit?usp=sharing)|EX02||
 ||7/3|7|[LSQ pt. 2](https://docs.google.com/presentation/d/13tfrU4DsGY721nmuyQNtZ3BIE6tGB29VyLffOAUCJPc/edit?usp=sharing)|<span style="color:red">QZ01</span> ([topics](/notes/qz01_topics))<br>EX03|[EX04: Linked list pt. 1](https://classroom.github.com/a/vO5q8ccq)<br>EX05: Linked list pt. 2 (same GH Classroom link)|
 ||7/4||No class|||
-||7/5||Class cancelled|||
+||7/5||Class cancelled (hand injury)|||
 |3|7/8|[8](https://github.com/comp210ss2/lecture_code/tree/main/src/main/java/comp210/L08)|[Sorting](https://docs.google.com/presentation/d/1SjjKP296bTmFG2wIknHnRmQIx-fCbFyWvqbjPHCyeTg/edit?usp=sharing)|EX04||
 ||7/9|[9](https://github.com/comp210ss2/lecture_code/blob/main/src/main/java/comp210/L09)|[Trees](https://docs.google.com/presentation/d/1_ZTXPFyR8MgjZCdJQoJV2P477eG9tiGXypTaaOVeXVA/edit?usp=sharing)|||
 ||7/10|10|[BST pt. 1](https://docs.google.com/presentation/d/1gWxv-OChbdGgWcqujD0I3VQFZLssZU6N44QOHUkWZAw/edit?usp=sharing)|<span style="color:red">QZ02</span> ([topics](/notes/qz02_topics))<br>EX05|[EX06/07: BST](https://classroom.github.com/a/-fyZKFea)|
 ||7/11|11|BST pt. 2|||
-||7/12|12|Priority queue and BHEAP|<span style="color:red">QZ03</span> (tentative)<br>EX06||
+||7/12|12|Priority queue and BHEAP|<span style="color:red">QZ03</span><br>EX06||
+|4|7/15|13||EX07||
+||7/16|14||||
+||7/17|15||||
+||7/18|16||||
+||7/19|17||||
