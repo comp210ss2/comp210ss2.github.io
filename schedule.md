@@ -22,7 +22,7 @@ nav_order: 1
 |3|7/8|[8](https://github.com/comp210ss2/lecture_code/tree/main/src/main/java/comp210/L08)|[Sorting](https://docs.google.com/presentation/d/1SjjKP296bTmFG2wIknHnRmQIx-fCbFyWvqbjPHCyeTg/edit?usp=sharing)|EX04||
 ||7/9|[9](https://github.com/comp210ss2/lecture_code/blob/main/src/main/java/comp210/L09)|[Trees](https://docs.google.com/presentation/d/1_ZTXPFyR8MgjZCdJQoJV2P477eG9tiGXypTaaOVeXVA/edit?usp=sharing)|||
 ||7/10|10|[BST pt. 1](https://docs.google.com/presentation/d/1gWxv-OChbdGgWcqujD0I3VQFZLssZU6N44QOHUkWZAw/edit?usp=sharing)|<span style="color:red">QZ02</span> ([topics](/notes/qz02_topics))<br>EX05|[EX06/07: BST](https://classroom.github.com/a/-fyZKFea)|
-||7/11|11|BST pt. 2|||
+||7/11|11|[BST pt. 2 and introduce priority queue](https://docs.google.com/presentation/d/1uhC_8wrxh8F5_bGeuucapdLmAFNXu1HV0dtJeHP2YAQ/edit?usp=sharing)|||
 ||7/12|12|Priority queue and BHEAP|<span style="color:red">QZ03</span> ([topics](/notes/qz03_topics))<br>EX06||
 |4|7/15|13||EX07||
 ||7/16|14||||
