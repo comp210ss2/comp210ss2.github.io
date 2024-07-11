@@ -47,6 +47,7 @@ parent: Notes
         - findMin/findMax
     - In-order traversal creates sorted sequence
     - Given two BST's with same elements (but not structure), which traversal(s) will result in the same sequence?
+    - Given a BST, if I do this type of traversal and insert in that order, will I get the same BST?
 3. L11 - BST, cont.
     - BST sort
     - TBD
