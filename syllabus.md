@@ -43,7 +43,11 @@ This course will teach you how to organize the data used in computer programs so
 
 ## Textbook
 
-There is no required textbook, and we will primarily use the resources on this website. However, you may use the free and open-source data structures textbook found at [opendatastructures.org](https://opendatastructures.org).
+There is no required textbook, and we will primarily use the resources on this website.
+
+Some of our lecture slides use content from [Introduction to Algorithms, fourth edition](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X) (commonly referred to as CLRS, the first letters of the authors' last names).
+
+You may also use the free and open-source data structures textbook found at [opendatastructures.org](https://opendatastructures.org).
 
 ## Resources
 
