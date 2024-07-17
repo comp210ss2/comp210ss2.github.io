@@ -32,7 +32,6 @@ nav_order: 1
 |5|7/22|18|Graphs pt. 2|||
 ||7/23|19|Graphs pt. 3|||
 ||7/24|20|TBD|<span style="color:red">QZ06</span> (tentative)||
-||7/25|21|TBD|||
-||7/25|22|LDOC|||
+||7/25|21|<span style="color:green">LDOC</span><br>TBD|||
 ||7/26||Reading day|||
 |6|7/30||<span style="color:red"><strong>Final exam</strong></span> 11:30 AM - 2:30 PM|||
