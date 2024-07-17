@@ -26,7 +26,7 @@ nav_order: 1
 ||7/12|12|Heap pt. 1 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|<span style="color:red">QZ03</span> ([topics](/notes/qz03_topics))<br>EX06||
 |4|7/15|13|Heap pt. 2 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|EX07|[EX08: Min-heap](https://classroom.github.com/a/9-Ln0vk3)|
 ||7/16|14|AVL pt. 1|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
-||7/17|15|AVL pt. 2|||
+||7/17|15|AVL pt. 2||EX09: AVL|
 ||7/18|16|Hashing|EX08||
 ||7/19|17|Graphs pt. 1|<span style="color:red">QZ05</span> (tentative)||
 |5|7/22|18|Graphs pt. 2|||
