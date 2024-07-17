@@ -25,7 +25,14 @@ nav_order: 1
 ||7/11|11|[BST pt. 2, priority queue](https://docs.google.com/presentation/d/1uhC_8wrxh8F5_bGeuucapdLmAFNXu1HV0dtJeHP2YAQ/edit?usp=sharing)|||
 ||7/12|12|Heap pt. 1 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|<span style="color:red">QZ03</span> ([topics](/notes/qz03_topics))<br>EX06||
 |4|7/15|13|Heap pt. 2 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|EX07|[EX08: Min-heap](https://classroom.github.com/a/9-Ln0vk3)|
-||7/16|14||<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
-||7/17|15||||
-||7/18|16||EX08||
-||7/19|17||||
+||7/16|14|AVL pt. 1|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
+||7/17|15|AVL pt. 2|||
+||7/18|16|Hashing|EX08||
+||7/19|17|Graphs pt. 1|||
+|5|7/22|17|Graphs pt. 2|<span style="color:red">QZ05</span> (tentative)||
+||7/23|18|Graphs pt. 3|||
+||7/24|19||||
+||7/25|20||||
+||7/25|21|LDOC|||
+||7/26||Reading day|||
+|6|7/30||<span style="color:red"><strong>Final exam</strong></span> 11:30 AM - 2:30 PM|||
