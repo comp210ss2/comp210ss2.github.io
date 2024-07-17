@@ -28,11 +28,11 @@ nav_order: 1
 ||7/16|14|AVL pt. 1|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
 ||7/17|15|AVL pt. 2|||
 ||7/18|16|Hashing|EX08||
-||7/19|17|Graphs pt. 1|||
-|5|7/22|17|Graphs pt. 2|<span style="color:red">QZ05</span> (tentative)||
-||7/23|18|Graphs pt. 3|||
-||7/24|19||||
-||7/25|20||||
-||7/25|21|LDOC|||
+||7/19|17|Graphs pt. 1|<span style="color:red">QZ05</span> (tentative)||
+|5|7/22|18|Graphs pt. 2|||
+||7/23|19|Graphs pt. 3|||
+||7/24|20|TBD|<span style="color:red">QZ06</span> (tentative)||
+||7/25|21|TBD|||
+||7/25|22|LDOC|||
 ||7/26||Reading day|||
 |6|7/30||<span style="color:red"><strong>Final exam</strong></span> 11:30 AM - 2:30 PM|||
