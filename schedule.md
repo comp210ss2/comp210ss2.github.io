@@ -23,10 +23,10 @@ nav_order: 1
 ||7/9|[9](https://github.com/comp210ss2/lecture_code/blob/main/src/main/java/comp210/L09)|[Trees](https://docs.google.com/presentation/d/1_ZTXPFyR8MgjZCdJQoJV2P477eG9tiGXypTaaOVeXVA/edit?usp=sharing)|||
 ||7/10|10|[BST pt. 1](https://docs.google.com/presentation/d/1gWxv-OChbdGgWcqujD0I3VQFZLssZU6N44QOHUkWZAw/edit?usp=sharing)|<span style="color:red">QZ02</span> ([topics](/notes/qz02_topics))<br>EX05|[EX06/07: BST](https://classroom.github.com/a/-fyZKFea)|
 ||7/11|11|[BST pt. 2, priority queue](https://docs.google.com/presentation/d/1uhC_8wrxh8F5_bGeuucapdLmAFNXu1HV0dtJeHP2YAQ/edit?usp=sharing)|||
-||7/12|12|Heap pt. 1 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|<span style="color:red">QZ03</span> ([topics](/notes/qz03_topics))<br>EX06||
-|4|7/15|13|Heap pt. 2 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|EX07|[EX08: Min-heap](https://classroom.github.com/a/9-Ln0vk3)|
-||7/16|14|AVL pt. 1 ([pptx](/slides/L14_15.pptx), [pdf](/slides/L14_15.pdf))|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
-||7/17|15|AVL pt. 2 ([pptx](/slides/L14_15.pptx), [pdf](/slides/L14_15.pdf))||EX09: AVL|
+||7/12|12|Heap pt. 1 ([pptx](/slides/L12_13_heap.pptx), [pdf](/slides/L12_13_heap.pdf))|<span style="color:red">QZ03</span> ([topics](/notes/qz03_topics))<br>EX06||
+|4|7/15|13|Heap pt. 2 ([pptx](/slides/L12_13_heap.pptx), [pdf](/slides/L12_13_heap.pdf))|EX07|[EX08: Min-heap](https://classroom.github.com/a/9-Ln0vk3)|
+||7/16|14|AVL pt. 1 ([pptx](/slides/L14_15_avl.pptx), [pdf](/slides/L14_15_avl.pdf))|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
+||7/17|15|AVL pt. 2 ([pptx](/slides/L14_15_avl.pptx), [pdf](/slides/L14_15_avl.pdf))||EX09: AVL|
 ||7/18|16|Hashing|EX08||
 ||7/19|17|Graphs pt. 1|<span style="color:red">QZ05</span> (tentative)||
 |5|7/22|18|Graphs pt. 2|||
