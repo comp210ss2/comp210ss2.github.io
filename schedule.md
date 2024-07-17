@@ -27,5 +27,5 @@ nav_order: 1
 |4|7/15|13|Heap pt. 2 ([pptx](/slides/L12_13.pptx), [pdf](/slides/L12_13.pdf))|EX07|[EX08: Min-heap](https://classroom.github.com/a/9-Ln0vk3)|
 ||7/16|14||<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
 ||7/17|15||||
-||7/18|16||||
+||7/18|16||EX08||
 ||7/19|17||||
