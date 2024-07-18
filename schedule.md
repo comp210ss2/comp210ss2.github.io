@@ -28,7 +28,7 @@ nav_order: 1
 ||7/16|14|AVL pt. 1 ([pptx](/slides/L14_15_avl.pptx), [pdf](/slides/L14_15_avl.pdf))|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
 ||7/17|15|AVL pt. 2 ([pptx](/slides/L14_15_avl.pptx), [pdf](/slides/L14_15_avl.pdf))|||
 ||7/18|16|Hashing ([pptx](/slides/L16_hashing.pptx), [pdf](/slides/L16_hashing.pdf))|EX08|[EX09: AVL](https://classroom.github.com/a/Gohfmbup) (due Saturday 7/20)|
-||7/19|17|Graphs pt. 1|<span style="color:red">QZ05</span> ([topics](/notes/qz05_topics.md))|EX10: HashMap|
+||7/19|17|Graphs pt. 1|<span style="color:red">QZ05</span> ([topics](/notes/qz05_topics))|EX10: HashMap|
 |5|7/22|18|Graphs pt. 2|||
 ||7/23|19|Graphs pt. 3|||
 ||7/24|20|TBD|<span style="color:red">QZ06</span> (tentative)||
