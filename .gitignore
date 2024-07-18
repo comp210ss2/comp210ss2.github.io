@@ -1,4 +1,6 @@
 ~*.pptx
+probing.py
+__pycache__/
 # Not sure what a .gitignore is?
 # See: https://git-scm.com/docs/gitignore
 
