@@ -27,8 +27,8 @@ nav_order: 1
 |4|7/15|13|Heap pt. 2 ([pptx](/slides/L12_13_heap.pptx), [pdf](/slides/L12_13_heap.pdf))|EX07|[EX08: Min-heap](https://classroom.github.com/a/9-Ln0vk3)|
 ||7/16|14|AVL pt. 1 ([pptx](/slides/L14_15_avl.pptx), [pdf](/slides/L14_15_avl.pdf))|<span style="color:red">QZ04</span> ([topics](/notes/qz04_topics))||
 ||7/17|15|AVL pt. 2 ([pptx](/slides/L14_15_avl.pptx), [pdf](/slides/L14_15_avl.pdf))|||
-||7/18|16|Hashing ([pptx](/slides/L16_hashing.pptx), [pdf](/slides/L16_hashing.pdf))|EX08|[EX09: AVL](https://classroom.github.com/a/Gohfmbup) (due Saturday 7/20)|
-||7/19|17|Graphs pt. 1|<span style="color:red">QZ05</span> ([topics](/notes/qz05_topics))|EX10: HashMap|
+||7/18|16|Hashing ([pptx](/slides/L16_hashing.pptx), [pdf](/slides/L16_hashing.pdf))|EX08|[EX09: AVL](https://classroom.github.com/a/Gohfmbup) (due Sunday 7/21)|
+||7/19|17|[Graphs pt. 1](/slides/L17_graph.pptx)|<span style="color:red">QZ05</span> ([topics](/notes/qz05_topics))|EX10: HashMap|
 |5|7/22|18|Graphs pt. 2|||
 ||7/23|19|Graphs pt. 3|||
 ||7/24|20|TBD|<span style="color:red">QZ06</span> (tentative)||
