@@ -30,8 +30,8 @@ nav_order: 1
 ||7/18|16|Hashing ([pptx](/slides/L16_hashing.pptx), [pdf](/slides/L16_hashing.pdf))|EX08|[EX09: AVL](https://classroom.github.com/a/Gohfmbup) (due Sunday 7/21)|
 ||7/19|17|[Graphs pt. 1](/slides/L17_graph.pptx)|<span style="color:red">QZ05</span> ([topics](/notes/qz05_topics))|[EX10: HashMap](https://classroom.github.com/a/v6ed8WQu)|
 |5|7/22|18|[Graphs pt. 2](/slides/L18_graphs2.pptx)|||
-||7/23|19|Graphs pt. 3|EX10||
+||7/23|19|Graphs pt. 3|EX10|[EX11: Graph algorithms](https://classroom.github.com/a/Qx2v0nYq)|
 ||7/24|20|TBD|<span style="color:red">QZ06</span> (tentative)||
-||7/25|21|<span style="color:green">LDOC</span><br>TBD|||
+||7/25|21|<span style="color:green">LDOC</span><br>TBD|EX11||
 ||7/26||Reading day|||
 |6|7/30||<span style="color:red"><strong>Final exam</strong></span> 11:30 AM - 2:30 PM|||
