@@ -31,7 +31,7 @@ nav_order: 1
 ||7/19|17|[Graphs pt. 1](/slides/L17_graph.pptx)|<span style="color:red">QZ05</span> ([topics](/notes/qz05_topics))|[EX10: HashMap](https://classroom.github.com/a/v6ed8WQu)|
 |5|7/22|18|[Graphs pt. 2](/slides/L18_graphs2.pptx)|||
 ||7/23|19|[Graphs pt. 3](/slides/L19_graphs3.pptx)|EX10|[EX11: Graph algorithms](https://classroom.github.com/a/Qx2v0nYq)|
-||7/24|20|TBD|||
-||7/25|21|<span style="color:green">LDOC</span><br>TBD|<span style="color:red">QZ06</span>EX11||
+||7/24|20|Graphs pt.4|||
+||7/25|21|<span style="color:green">LDOC</span><br>Review session|<span style="color:red">QZ06</span><br>EX11||
 ||7/26||Reading day|||
 |6|7/30||<span style="color:red"><strong>Final exam</strong></span> 11:30 AM - 2:30 PM|||
