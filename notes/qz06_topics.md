@@ -16,6 +16,7 @@ All bolded text below should be interpreted as questions that might show up on t
 
 1. L17 - Graph concepts
     - Graph definition
+        - Be able to draw the graph represented by a mathematical description ($$G = (V, E)$$, and $$V$$ and $$E$$ are given)
     - Adjacency
     - Path, path length
     - Cycle
@@ -27,7 +28,7 @@ All bolded text below should be interpreted as questions that might show up on t
     - Complete graph
         - **Show that the number of edges in an undirected complete graph is $$\frac{v(v-1)}{2}$$ (can be done in a sentence)**
     - Planarity
-        - **Given a graph, be able to identify whether it is planar or not**
+        - **Given a graph or description of one, be able to identify whether it is planar or not**
         - If a graph is drawn and looks planar, then it is planar. If it does not look planar, it may still be planar (drawn differently).
     - Bipartite
         - **Given a graph or a description of one, be able to identify whether or not it is bipartite**
@@ -50,6 +51,7 @@ All bolded text below should be interpreted as questions that might show up on t
         - **Given a graph or description of one, identify whether it is sparse or dense**
     - Topological sort
         - **Properties of topo sort** (e.g., slide 28)
+        - **Under what condition can two vertices in a DAG be in either order in a topo sort?**
         - **Given a graph, be able to provide a topo sort if it exists, or assert that it does not exist**
         - **Given a graph and sequence of vertices, be able to identify whether the sequence is a topo sort**
         - Topo sort algorithm
@@ -63,8 +65,8 @@ All bolded text below should be interpreted as questions that might show up on t
             - **How to implement?**
         - Breadth-first
             - **How to implement?**
-        - **Given a graph, be able to state a DFS and BFS traversal**
-        - **Given a graph and sequence of vertices, be able to identify whether the sequence is a DFS or BFS traversal**
+        - **Given a graph, be able to state a depth-first and breadth-first traversal**
+        - **Given a graph and sequence of vertices, be able to identify whether the sequence is a depth-first or breadth-first traversal**
     - Dijkstra's algorithm
         - **Be able to do it by hand**
         - **Be able to describe why we need the `known` and `prev` fields**
@@ -85,7 +87,7 @@ All bolded text below should be interpreted as questions that might show up on t
         - **Given a graph, be able to identify whether it has an Euler path and/or circuit**
         - Be able to identify whether a sequence of vertices is an EP/EC
         - If a graph has 2 odd vertices, know that those are the start/end vertices
-        - Know that EP/EC can be found in $$O(\\|V\\|+\\|E\\|)$$ time
+        - Know that EP/EC can be found in $$O(\\|V\\|+\\|E\\|)$$ time (which we call linear for graphs)
     - HP/HC
         - Be able to identify whether a sequence of vertices is an HP/HC
         - **Apply theorems 1, 2, 3 to determine whether a statement about a possible HP/HC in a graph could be true or must be false**
