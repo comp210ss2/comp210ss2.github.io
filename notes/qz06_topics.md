@@ -85,7 +85,7 @@ All bolded text below should be interpreted as questions that might show up on t
         - **Given a graph, be able to identify whether it has an Euler path and/or circuit**
         - Be able to identify whether a sequence of vertices is an EP/EC
         - If a graph has 2 odd vertices, know that those are the start/end vertices
-        - Know that EP/EC can be found in $$O(|V|+|E|)$$
+        - Know that EP/EC can be found in $$O(\\|V\\|+\\|E\\|)$$ time
     - HP/HC
         - Be able to identify whether a sequence of vertices is an HP/HC
         - **Apply theorems 1, 2, 3 to determine whether a statement about a possible HP/HC in a graph could be true or must be false**
