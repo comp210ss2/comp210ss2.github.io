@@ -12,6 +12,8 @@ This quiz will be 35-40 minutes. Note that it is slightly cumulative. For exampl
 
 Two proof questions that **will be on the quiz** are L17 - Show that a tree is bipartite (using induction, and the base case and part of the inductive case are given below). The other is L17 - Show that the number of edges in an undirected complete graph is $$\frac{v(v-1)}{2}$$ (can be done in a sentence).
 
+Two short answer questions that will show up are L17 - Make an implication statement (i.e. $$p \implies q$$) using SC and WC and L18 - Under what condition can two vertices in a DAG be in either order in a topological sort?
+
 All bolded text below should be interpreted as questions that might show up on the quiz.
 
 1. L17 - Graph concepts
@@ -24,7 +26,7 @@ All bolded text below should be interpreted as questions that might show up on t
         - **Given a graph, be able to identify whether it is or is not DAG**
     - Simple cycle detection algorithm
     - Connected (undirected), strongly and weakly connected (directed)
-        - **What is the relationship between SC and WC? E.g., if a graph is SC, then is it WC?**
+        - **Make an implication statement (i.e. $$p \implies q$$) using SC and WC**
     - Complete graph
         - **Show that the number of edges in an undirected complete graph is $$\frac{v(v-1)}{2}$$ (can be done in a sentence)**
     - Planarity
