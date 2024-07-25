@@ -93,6 +93,6 @@ All bolded text below should be interpreted as questions that might show up on t
 
 ## Useful math facts
 
-* The sum of the first $$n$$ natural numbers is $$\sum_{i=1}^n i = 1 + 2 + \ldots + n$$.
+* $$\sum_{i=1}^n i = 1 + 2 + \ldots + n = \frac{n(n+1)}{2}$$.
 * $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$
-* For $$k=2$$, we have $$\binom{n}{2} = \frac{n!}{2!(n-2)!} = \frac{n(n-1)}{2}$$
+    * For $$k=2$$, we have $$\binom{n}{2} = \frac{n!}{2!(n-2)!} = \frac{n(n-1)}{2}$$
