@@ -10,11 +10,11 @@ parent: Notes
 
 This quiz will be 35-40 minutes. Note that it is slightly cumulative. For example, trees are graphs, so you will need to remember some tree content. This quiz will contain some proofs (due to being more math-oriented content), but only easy ones that were covered in class.
 
-Two proof questions that **will be on the quiz** are L17 - Show that a tree is bipartite (using induction, and the base case and part of the inductive case are given below). The other is L17 - Show that the number of edges in an undirected complete graph is $$\frac{v(v-1)}{2}$$ (can be done in a sentence).
+Two proof questions that <span style="color: red">will be on the quiz</span> are written in <span style="color: red">red</span>. For one, it is recommended that you do a proof **by induction**. Two short answer questions that will also show up are written in <span style="color: green">green</span> below.
 
-Two short answer questions that will show up are L17 - Make an implication statement (i.e. $$p \implies q$$) using SC and WC and L18 - Under what condition can two vertices in a DAG be in either order in a topological sort?
+All other bolded text below should be interpreted as questions that might show up on the quiz.
 
-All bolded text below should be interpreted as questions that might show up on the quiz.
+L20's P and NP content from slide 33 and onward will not be on the quiz. On a side note, I had drawn P and NP as intersecting circles in class, but $$P \subseteq NP$$, so I added that on slide 35.
 
 1. L17 - Graph concepts
     - Graph definition
@@ -26,15 +26,16 @@ All bolded text below should be interpreted as questions that might show up on t
         - **Given a graph, be able to identify whether it is or is not DAG**
     - Simple cycle detection algorithm
     - Connected (undirected), strongly and weakly connected (directed)
-        - **Make an implication statement (i.e. $$p \implies q$$) using SC and WC**
+        - <span style="color: green">**Make an implication statement (i.e. $$p \implies q$$) using SC and WC**</span>
     - Complete graph
-        - **Show that the number of edges in an undirected complete graph is $$\frac{v(v-1)}{2}$$ (can be done in a sentence)**
+        - <span style="color: red">**Show that the number of edges in an undirected complete graph is $$\frac{v(v-1)}{2}$$ (can be done in a few words/symbols)**</span>
     - Planarity
         - **Given a graph or description of one, be able to identify whether it is planar or not**
         - If a graph is drawn and looks planar, then it is planar. If it does not look planar, it may still be planar (drawn differently).
     - Bipartite
         - **Given a graph or a description of one, be able to identify whether or not it is bipartite**
-        - **Show that a tree is bipartite** (proof done in class)
+        - <span style="color: red">**Show that a tree (acyclic graph) is bipartite**</span> (may use induction)
+            - This proof was done in class
             - Base case
                 - 1 node, color it black, and it is bipartite
             - Inductive hypothesis
@@ -53,7 +54,7 @@ All bolded text below should be interpreted as questions that might show up on t
         - **Given a graph or description of one, identify whether it is sparse or dense**
     - Topological sort
         - **Properties of topo sort** (e.g., slide 28)
-        - **Under what condition can two vertices in a DAG be in either order in a topo sort?**
+        - <span style="color: green">**Under what condition can two vertices in a DAG be in either order in a topological sort?**</span>
         - **Given a graph, be able to provide a topo sort if it exists, or assert that it does not exist**
         - **Given a graph and sequence of vertices, be able to identify whether the sequence is a topo sort**
         - Topo sort algorithm
@@ -97,6 +98,6 @@ All bolded text below should be interpreted as questions that might show up on t
 
 ## Useful math facts
 
-* $$\sum_{i=1}^n i = 1 + 2 + \ldots + n = \frac{n(n+1)}{2}$$.
+* $$\sum_{i=1}^n i = 1 + 2 + \ldots + n = \frac{n(n+1)}{2}$$
 * $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$
-    * For $$k=2$$, we have $$\binom{n}{2} = \frac{n!}{2!(n-2)!} = \frac{n(n-1)}{2}$$
+* For $$k=2$$, we have $$\binom{n}{2} = \frac{n!}{2!(n-2)!} = \frac{n(n-1)}{2}$$
