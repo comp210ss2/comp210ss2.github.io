@@ -65,9 +65,9 @@ L20's P and NP content from slide 33 and onward will not be on the quiz. On a si
     - Unweighted shortest path
     - Traversals on graph
         - Depth-first
-            - **How to implement?**
+            - **Which data structure can we use to implement?**
         - Breadth-first
-            - **How to implement?**
+            - **Which data structure can we use to implement?**
         - **Given a graph, be able to state a depth-first and breadth-first traversal**
         - **Given a graph and sequence of vertices, be able to identify whether the sequence is a depth-first or breadth-first traversal**
     - Dijkstra's algorithm
