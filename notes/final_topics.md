@@ -8,7 +8,7 @@ parent: Notes
 
 # Final exam topics
 
-The final is allocated 3 hours, but I have written it so that it should take less time than that (since we have had some longer quizzes).
+The final is allocated 3 hours, but I have written it so that it should take less time than that (since we have had some longer quizzes). However, I believe it is likely harder than our average quiz (of course, I can't be certain).
 
 The question names are
 
