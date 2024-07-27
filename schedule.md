@@ -34,4 +34,4 @@ nav_order: 1
 ||7/24|20|Graphs pt. 4 ([pptx](/slides/L20_graphs4.pptx), [pdf](/slides/L20_graphs4.pdf))|||
 ||7/25|21|<span style="color:green">LDOC</span><br>Review session|<span style="color:red">QZ06</span> ([topics](/notes/qz06_topics))<br>EX11||
 ||7/26||Reading day|||
-|6|7/30||<span style="color:red"><strong>Final exam</strong></span> 11:30 AM - 2:30 PM|||
+|6|<span style="color:red"><strong>7/30<br>11:30 AM - 2:30 PM</strong></span>|||<span style="color:red"><strong>Final exam</strong></span> ([topics](/notes/final_topics))||
