@@ -26,3 +26,5 @@ The question names are
 10. Another Design
 
 The design questions are similar to the last question of QZ06.
+
+I recommend looking at previous quiz questions on those topics and reviewing the slides and/or quiz topics I posted about them.
